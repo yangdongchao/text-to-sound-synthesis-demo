@@ -1,13 +1,13 @@
-# <center> Target Confusion in End-to-end Speaker Extraction: Analysis and Approaches </center>
+# <center> Text-to-sound Synthesis </center>
 
-<center> Zifeng Zhao<sup>1</sup>, Dongchao Yang<sup>1</sup>, Rongzhi Gu<sup>1</sup>, Haoran Zhang<sup>1</sup>, Yuexian Zou<sup>1,2</sup> </center> 
+<center> Dongchao Yang<sup>1</sup>, Jianwei Yu<sup>2</sup>, Chao Weng<sup>2</sup>, Yuexian Zou<sup>1</sup> </center> 
  
 <center> 1 Peking University </center>
 
-<center> 2 Peng Cheng Laboratory</center>
+<center> 2 Tencent AI Lab</center>
 
 ## Introduction
-This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper **_Target Confusion in End-to-end Speaker Extraction: Analysis and Approaches_**. In the following, we will show some cases in which the baseline model comes across with **_target confusion problem_**, and compare them with our results.
+This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) for our paper **_Text-to-sound Synthesis_**. In the following, we will show some generated samples by our proposed method.
 
 ## Examples
 

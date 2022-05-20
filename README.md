@@ -1,4 +1,4 @@
-## Target Confusion in End-to-end Speaker Extraction: Analysis and Approaches
+## Text-to-sound Synthesis
 
 ### About 
-This is a [demo](https://zhazhafon.github.io/demo-confusion/) for our paper '_Target Confusion in End-to-end Speaker Extraction: Analysis and Approaches_'. Check [https://zhazhafon.github.io/demo-confusion/](https://zhazhafon.github.io/demo-confusion/) for details.
+This is a [demo](http://dongchaoyang.top/text-to-sound-synthesis-demo/) for our paper '_Text-to-sound Synthesis_'. Check [http://dongchaoyang.top/text-to-sound-synthesis-demo/](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) for details.
