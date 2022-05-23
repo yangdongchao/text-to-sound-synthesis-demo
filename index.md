@@ -11,22 +11,33 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 
 ## Examples
 
-### Text description
-
+### The comprarison betwween generated and real audios
 
 | <center>Text description</center> | <center>generated samples</center> | <center>Original samples</center> |
 | :--- | :--- | :--- |
 |A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
-|None|<img src="Pic/YryFDPxgDOGc_g0.png"/>|<img src="Pic/YryFDPxgDOGc_org.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/YryFDPxgDOGc_g0.png"/>|<img src="Pic/YryFDPxgDOGc_org.png"/>|
 |A person is snoring while sleeping|<audio src="samples1/YsLkeqCDJIyw_mel_sample_1.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
-|None|<img src="Pic/YsLkeqCDJIyw_g1.png"/>|<img src="Pic/YsLkeqCDJIyw_org.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/YsLkeqCDJIyw_g1.png"/>|<img src="Pic/YsLkeqCDJIyw_org.png"/>|
 |Birds and insects make noise during the daytime
 |<audio src="samples1/Yvms5XGTDVQc_mel_sample_1.wav" controls preload></audio>|<audio src="samples1/Yvms5XGTDVQc.wav" controls preload></audio>|
-|None|<img src="Pic/Yvms5XGTDVQc_g1.png"/>|<img src="Pic/Yvms5XGTDVQc_orf.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/Yvms5XGTDVQc_g1.png"/>|<img src="Pic/Yvms5XGTDVQc_orf.png"/>|
 |A dog barks and whimpers|<audio src="samples1/YsShpyu2l4YQ_mel_sample_9.wav" controls preload></audio>|<audio src="samples1/YsShpyu2l4YQ.wav" controls preload></audio>|
-|None|<img src="Pic/YsShpyu2l4YQ_g1.png"/>|<img src="Pic/YsShpyu2l4YQ_org.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/YsShpyu2l4YQ_g1.png"/>|<img src="Pic/YsShpyu2l4YQ_org.png"/>|
 
-
+### Other generated samples
+* **Sample 1**
+    * **Text input**
+    _An engine idles consistently before sputtering some_
+    * **Generated sound**
+    <audio src="demo1/YrwT__ERCUno_mel_sample_0.wav" controls="controls">ERROR</audio>
+---
+* **Sample 2**
+    * **Text input**
+    _A man talks followed by a woman shouting_
+    * **Generated sound**
+    <audio src="demo1/Ys3cT_DAj31g_mel_sample_0.wav" controls="controls">ERROR</audio>
+---
 ### Links
 
 [[Paper](https://arxiv.org/abs/2204.01355)] [[Bibtex](bib.txt)] [[Demo GitHub](https://github.com/ZhaZhaFon/demo-confusion)]
