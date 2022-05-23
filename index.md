@@ -16,27 +16,29 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 | <center>Text description</center> | <center>generated samples</center> | <center>Original samples</center> |
 | :--- | :--- | :--- |
 |A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
-|Corresponding Mel-spectrograms|<img src="Pic/YryFDPxgDOGc_g0.png"/>|<img src="Pic/YryFDPxgDOGc_org.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/YryFDPxgDOGc_g0.png" width=60% height=60% />|<img src="Pic/YryFDPxgDOGc_org.png" width=60% height=60% />|
 |A person is snoring while sleeping|<audio src="samples1/YsLkeqCDJIyw_mel_sample_1.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
-|Corresponding Mel-spectrograms|<img src="Pic/YsLkeqCDJIyw_g1.png"/>|<img src="Pic/YsLkeqCDJIyw_org.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/YsLkeqCDJIyw_g1.png" width=60% height=60% />|<img src="Pic/YsLkeqCDJIyw_org.png" width=60% height=60% />|
 |Birds and insects make noise during the daytime
 |<audio src="samples1/Yvms5XGTDVQc_mel_sample_1.wav" controls preload></audio>|<audio src="samples1/Yvms5XGTDVQc.wav" controls preload></audio>|
-|Corresponding Mel-spectrograms|<img src="Pic/Yvms5XGTDVQc_g1.png"/>|<img src="Pic/Yvms5XGTDVQc_orf.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/Yvms5XGTDVQc_g1.png" width=60% height=60% />|<img src="Pic/Yvms5XGTDVQc_orf.png" width=60% height=60% />|
 |A dog barks and whimpers|<audio src="samples1/YsShpyu2l4YQ_mel_sample_9.wav" controls preload></audio>|<audio src="samples1/YsShpyu2l4YQ.wav" controls preload></audio>|
-|Corresponding Mel-spectrograms|<img src="Pic/YsShpyu2l4YQ_g1.png"/>|<img src="Pic/YsShpyu2l4YQ_org.png"/>|
+|Corresponding Mel-spectrograms|<img src="Pic/YsShpyu2l4YQ_g1.png" width=60% height=60% />|<img src="Pic/YsShpyu2l4YQ_org.png" width=60% height=60% />|
 
 ### Other generated samples
 * **Sample 1**
-    * **Text input**
+    * **Text input:**
     _An engine idles consistently before sputtering some_
     * **Generated sound**
     <audio src="demo1/YrwT__ERCUno_mel_sample_0.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 2**
-    * **Text input**
-    _A man talks followed by a woman shouting_
-    * **Generated sound**
-    <audio src="demo1/Ys3cT_DAj31g_mel_sample_0.wav" controls="controls">ERROR</audio>
+    * **Text input:**
+    _A train horn sounds and railroad crossing ring_
+    * **Generated sound 1**
+    <audio src="demo1/Ys7knHCFW82w_mel_sample_4.wav" controls="controls">ERROR</audio>
+    * **Generated sound 2**
+    <audio src="demo1/Ys7knHCFW82w_mel_sample_9.wav" controls="controls">ERROR</audio>
 ---
 ### Links
 
