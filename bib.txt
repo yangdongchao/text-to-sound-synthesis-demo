@@ -1,6 +1,0 @@
-@article{zhao2022target,
-  title={Target Confusion in End-to-end Speaker Extraction: Analysis and Approaches},
-  author={Zhao, Zifeng and Yang, Dongchao and Gu, Rongzhi and Zhang, Haoran and Zou, Yuexian},
-  journal={arXiv preprint arXiv:2204.01355},
-  year={2022}
-}
