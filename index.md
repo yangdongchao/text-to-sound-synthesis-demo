@@ -54,10 +54,8 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 * **Sample 5**
     * **Text input:**
     _A man speaks, followed by an electronic beep and another man speaking_
-    * **Generated sound1**
+    * **Generated sound**
     <audio src="samples1/YsG7TyPnFDR0_mel_sample_4.wav" controls="controls">ERROR</audio>
-    * **Generated sound2**
-    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_9.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 6**
     * **Text input:**
@@ -113,7 +111,7 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
     * **Generated sound1**
     <audio src="selected/YtDlysoZiA1I_mel_sample_6.wav" controls="controls">ERROR</audio>
     * **Generated sound2**
-    <audio src="selected/YtDlfY3nmx1A_mel_sample_4.wav" controls="controls">ERROR</audio>
+    <audio src="selected/YtDlysoZiA1I_mel_sample_4.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 14**
     * **Text input:**
