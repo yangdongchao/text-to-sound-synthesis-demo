@@ -129,5 +129,5 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ---
 ## Links
 
-[[Paper]()] [[Bibtex]()] [[Demo GitHub](https://github.com/yangdongchao/text-to-sound-synthesis-demo)] [TencentAILab](https://ai.tencent.com/ailab/zh/index) [code](https://github.com/yangdongchao/Text-to-sound-Synthesis)
+[[Paper]()] [[Bibtex]()] [[Demo GitHub](https://github.com/yangdongchao/text-to-sound-synthesis-demo)] [[TencentAILab](https://ai.tencent.com/ailab/zh/index)] [[code](https://github.com/yangdongchao/Text-to-sound-Synthesis)]
 
