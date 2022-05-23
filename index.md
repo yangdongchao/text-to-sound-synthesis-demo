@@ -14,14 +14,11 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ### Text description
 
 
-| <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center>proposed methods</center> | <center>ground-truth</center> | 
-| :--- | :--- | :--- | :--- | :--- |
-|<audio src="wavs/male2female/1320-122617-0035_121-121726-0009.wav" controls preload></audio>|<audio src="wavs/male2female/1320-122612-0010_2094-142345-0048.wav" controls preload></audio>|<audio src="wavs/male2female/baseline/1320-122617-0035_121-121726-0009_s0.wav" controls preload></audio>|<audio src="wavs/male2female/ours/1320-122617-0035_121-121726-0009_s0.wav" controls preload></audio>|<audio src="wavs/male2female/gt/1320-122617-0035_121-121726-0009.wav" controls preload></audio>|
-|<img src="wavs/male2female/1320-122617-0035_121-121726-0009.png"/>|<img src="wavs/male2female/1320-122612-0010_2094-142345-0048.png"/>|<img src="wavs/male2female/baseline/1320-122617-0035_121-121726-0009_s0.png"/>|<img src="wavs/male2female/ours/1320-122617-0035_121-121726-0009_s0.png"/>|<img src="wavs/male2female/gt/1320-122617-0035_121-121726-0009.png"/>|
-|<audio src="wavs/male2female/5105-28240-0005_6829-68769-0010.wav" controls preload></audio>|<audio src="wavs/male2female/5105-28241-0019_2830-3980-0050.wav" controls preload></audio>|<audio src="wavs/male2female/baseline/5105-28240-0005_6829-68769-0010_s0.wav" controls preload></audio>|<audio src="wavs/male2female/ours/5105-28240-0005_6829-68769-0010_s0.wav" controls preload></audio>|<audio src="wavs/male2female/gt/5105-28240-0005_6829-68769-0010.wav" controls preload></audio>|
-|<img src="wavs/male2female/5105-28240-0005_6829-68769-0010.png"/>|<img src="wavs/male2female/5105-28241-0019_2830-3980-0050.png"/>|<img src="wavs/male2female/baseline/5105-28240-0005_6829-68769-0010_s0.png"/>|<img src="wavs/male2female/ours/5105-28240-0005_6829-68769-0010_s0.png"/>|<img src="wavs/male2female/gt/5105-28240-0005_6829-68769-0010.png"/>|
-|<audio src="wavs/male2female/3570-5695-0010_5105-28240-0015.wav" controls preload></audio>|<audio src="wavs/male2female/5683-32866-0001_5105-28241-0016.wav" controls preload></audio>|<audio src="wavs/male2female/baseline/3570-5695-0010_5105-28240-0015_s1.wav" controls preload></audio>|<audio src="wavs/male2female/ours/3570-5695-0010_5105-28240-0015_s1.wav" controls preload></audio>|<audio src="wavs/male2female/gt/3570-5695-0010_5105-28240-0015.wav" controls preload></audio>|
-|<img src="wavs/male2female/3570-5695-0010_5105-28240-0015.png"/>|<img src="wavs/male2female/5683-32866-0001_5105-28241-0016.png"/>|<img src="wavs/male2female/baseline/3570-5695-0010_5105-28240-0015_s1.png"/>|<img src="wavs/male2female/ours/3570-5695-0010_5105-28240-0015_s1.png"/>|<img src="wavs/male2female/gt/3570-5695-0010_5105-28240-0015.png"/>|
+| <center>Text input</center> | <center>generated samples</center> | <center>Original samples</center> |
+| :--- | :--- | :--- |
+|A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
+|None|<img src="Pic/YryFDPxgDOGc_g0.png"/>|<img src="Pic/YryFDPxgDOGc_org.png"/>|
+
 
 ### Male - Male Mixtures
 
