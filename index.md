@@ -11,7 +11,8 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 
 ## Examples
 
-### Female - Male Mixtures
+### Text description
+
 
 | <center>speech mixture</center> | <center>enrollment utterance</center> | <center>baseline</center> | <center>proposed methods</center> | <center>ground-truth</center> | 
 | :--- | :--- | :--- | :--- | :--- |
