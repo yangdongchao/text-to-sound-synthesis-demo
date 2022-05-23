@@ -13,7 +13,7 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 
 ### The comprarison between generated and real audios
 Note that we visualize the mel-spectrograms for each audio.
-| <center>Text description</center> | <center>generated samples</center> | <center>Original samples</center> |
+| <center>Text description</center> | <center>generated samples</center> | <center>Original samples</center>|
 | :--- | :--- | :--- |
 |A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
 |None|<img src="Pic/YryFDPxgDOGc_g0.png" width="60%" height="60%" />|<img src="Pic/YryFDPxgDOGc_org.png" width="60%" height="60%" />|
@@ -48,12 +48,8 @@ Note that we visualize the mel-spectrograms for each audio.
 * **Sample 4**
     * **Text input:**
     _A vehicle accelerates squealing tires_
-    * **Generated sound1**
-    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_0.wav" controls="controls">ERROR</audio>
-    * **Generated sound2**
-    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_1.wav" controls="controls">ERROR</audio>
-    * **Generated sound3**
-    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_2.wav" controls="controls">ERROR</audio>
+    * **Generated sound**
+    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_9.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 5**
     * **Text input:**
