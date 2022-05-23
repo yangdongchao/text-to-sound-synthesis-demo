@@ -12,7 +12,6 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ## Examples
 
 ### The comprarison between generated and real audios
-Note that we visualize the mel-spectrograms for each audio.
 | <center>Text description</center> | <center>generated samples</center> | <center>Original samples</center>|
 | :--- | :--- | :--- |
 |A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
