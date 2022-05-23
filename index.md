@@ -15,10 +15,10 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 
 | <center>Text description</center> | <center>generated samples</center> | <center>Original samples</center>|
 | :--- | :--- | :--- |
-|A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
-|None|<img src="Pic/YryFDPxgDOGc_g0.png" width="60%" height="60%" />|<img src="Pic/YryFDPxgDOGc_org.png" width="60%" height="60%" />|
 |A person is snoring while sleeping|<audio src="samples1/YsLkeqCDJIyw_mel_sample_1.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
 |None|<img src="Pic/YsLkeqCDJIyw_g1.png" width="60%" height="60%" />|<img src="Pic/YsLkeqCDJIyw_org.png" width="60%" height="60%" />|
+|A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
+|None|<img src="Pic/YryFDPxgDOGc_g0.png" width="60%" height="60%" />|<img src="Pic/YryFDPxgDOGc_org.png" width="60%" height="60%" />|
 |Birds and insects make noise during the daytime|<audio src="samples1/Yvms5XGTDVQc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/Yvms5XGTDVQc.wav" controls preload></audio>|
 |None|<img src="Pic/Yvms5XGTDVQc_g1.png" width="60%" height="60%" />|<img src="Pic/Yvms5XGTDVQc_orf.png" width="60%" height="60%" />|
 |A dog barks and whimpers|<audio src="samples1/YsShpyu2l4YQ_mel_sample_9.wav" controls preload></audio>|<audio src="samples1/YsShpyu2l4YQ.wav" controls preload></audio>|
@@ -71,11 +71,11 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ---
 * **Sample 8**
     * **Text input:**
-    _A man speaks as bees buzz and birds chirp_
+    _Birds chirp and pigeons vocalize as a vehicle passes by_
     * **Generated sound1**
-    <audio src="selected/Yt25U-v4k4ts_mel_sample_0.wav" controls="controls">ERROR</audio>
+    <audio src="selected/YtH-q8LXgHEc_mel_sample_0.wav" controls="controls">ERROR</audio>
      * **Generated sound2**
-    <audio src="selected/Yt25U-v4k4ts_mel_sample_5.wav" controls="controls">ERROR</audio>
+    <audio src="selected/YtH-q8LXgHEc_mel_sample_5.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 9**
     * **Text input:**
@@ -117,7 +117,7 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
     * **Text input:**
     _Some people talk followed by some surface being tapped_
     * **Generated sound1**
-    <audio src="selected/YtFCUUGdREgA_mel_sample_4.wav" controls="controls">ERROR</audio>
+    <audio src="s2/Ywob-3S4VjMs_mel_sample_0.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 15**
     * **Text input:**
