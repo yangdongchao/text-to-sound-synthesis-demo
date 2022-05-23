@@ -115,17 +115,17 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ---
 * **Sample 14**
     * **Text input:**
-    _Some people talk followed by some surface being tapped_
-    * **Generated sound1**
-    <audio src="s2/Ywob-3S4VjMs_mel_sample_0.wav" controls="controls">ERROR</audio>
----
-* **Sample 15**
-    * **Text input:**
     _A man talks while something sizzles_
     * **Generated sound1**
     <audio src="selected/YtfsmcdXCnRg_mel_sample_0.wav" controls="controls">ERROR</audio>
     * **Generated sound2**
     <audio src="selected/YtfsmcdXCnRg_mel_sample_9.wav" controls="controls">ERROR</audio>
+---
+* **Sample 15**
+    * **Text input:**
+    _Someone is typing on a computer keyboard_
+    * **Generated sound1**
+    <audio src="s2/Ywob-3S4VjMs_mel_sample_0.wav" controls="controls">ERROR</audio>
 ---
 ## Links
 
