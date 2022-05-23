@@ -12,7 +12,7 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ## Examples
 
 ### The comprarison between generated and real audios
-
+Note that we visualize the mel-spectrograms for each audio.
 | <center>Text description</center> | <center>generated samples</center> | <center>Original samples</center> |
 | :--- | :--- | :--- |
 |A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
@@ -43,25 +43,25 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
     * **Text input:**
     _A clock ticktocks continuously_
     * **Generated sound**
-    <audio src="demo1/YsCeWURVHfOM_mel_sample_5.wav" controls="controls">ERROR</audio>
+    <audio src="samples1/YsCeWURVHfOM_mel_sample_5.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 4**
     * **Text input:**
     _A vehicle accelerates squealing tires_
     * **Generated sound1**
-    <audio src="demo1/Ysd7x_Vssqlw_mel_sample_0.wav" controls="controls">ERROR</audio>
+    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_0.wav" controls="controls">ERROR</audio>
     * **Generated sound2**
-    <audio src="demo1/Ysd7x_Vssqlw_mel_sample_1.wav" controls="controls">ERROR</audio>
+    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_1.wav" controls="controls">ERROR</audio>
     * **Generated sound3**
-    <audio src="demo1/Ysd7x_Vssqlw_mel_sample_2.wav" controls="controls">ERROR</audio>
+    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_2.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 5**
     * **Text input:**
     _A man speaks, followed by an electronic beep and another man speaking_
     * **Generated sound1**
-    <audio src="demo1/YsG7TyPnFDR0_mel_sample_4.wav" controls="controls">ERROR</audio>
+    <audio src="samples1/YsG7TyPnFDR0_mel_sample_4.wav" controls="controls">ERROR</audio>
     * **Generated sound2**
-    <audio src="demo1/Ysd7x_Vssqlw_mel_sample_9.wav" controls="controls">ERROR</audio>
+    <audio src="samples1/Ysd7x_Vssqlw_mel_sample_9.wav" controls="controls">ERROR</audio>
 ---
 ### Links
 
