@@ -7,7 +7,7 @@
 <center> 2 Tencent AI Lab</center>
 
 ## Introduction
-This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) for our paper **_Text-to-sound Synthesis_**. In the following, we will show some generated samples by our proposed method.
+This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) for our paper **_Text-to-sound Synthesis_**. Code and Pre-trained model can be find on [github](https://github.com/yangdongchao/Text-to-sound-Synthesis). In the following, we will show some generated samples by our proposed method. If you want to find more samples, please refer to our [github](https://github.com/yangdongchao/Text-to-sound-Synthesis).
 
 ## Examples
 
@@ -127,8 +127,7 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
     * **Generated sound2**
     <audio src="selected/YtfsmcdXCnRg_mel_sample_9.wav" controls="controls">ERROR</audio>
 ---
-### Links
+## Links
 
-[[Paper]()] [[Bibtex]()] [[Demo GitHub](https://github.com/yangdongchao/text-to-sound-synthesis-demo)]
+[[Paper]()] [[Bibtex]()] [[Demo GitHub](https://github.com/yangdongchao/text-to-sound-synthesis-demo)] [TencentAILab](https://ai.tencent.com/ailab/zh/index) [code](https://github.com/yangdongchao/Text-to-sound-Synthesis)
 
-### References
