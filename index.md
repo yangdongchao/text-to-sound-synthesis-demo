@@ -59,6 +59,76 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
     * **Generated sound2**
     <audio src="samples1/Ysd7x_Vssqlw_mel_sample_9.wav" controls="controls">ERROR</audio>
 ---
+* **Sample 6**
+    * **Text input:**
+    _A baby screams and cries_
+    * **Generated sound**
+    <audio src="selected/YsYQi1wgCNu4_mel_sample_7.wav" controls="controls">ERROR</audio>
+---
+* **Sample 7**
+    * **Text input:**
+    _An engine runs loudly_
+    * **Generated sound**
+    <audio src="selected/YsZvwOuuPGP0_mel_sample_8.wav" controls="controls">ERROR</audio>
+---
+* **Sample 8**
+    * **Text input:**
+    _A man speaks as bees buzz and birds chirp_
+    * **Generated sound1**
+    <audio src="selected/Yt25U-v4k4ts_mel_sample_0.wav" controls="controls">ERROR</audio>
+     * **Generated sound2**
+    <audio src="selected/Yt25U-v4k4ts_mel_sample_5.wav" controls="controls">ERROR</audio>
+---
+* **Sample 9**
+    * **Text input:**
+    _A bug is buzzing as it is flying around_
+    * **Generated sound**
+    <audio src="selected/Yt97k0cejSQE_mel_sample_2.wav" controls="controls">ERROR</audio>
+---
+* **Sample 10**
+    * **Text input:**
+    _Soft whistling with wind blowing_
+    * **Generated sound**
+    <audio src="selected/YtbLjCaI0-Lo_mel_sample_6.wav" controls="controls">ERROR</audio>
+---
+* **Sample 11**
+    * **Text input:**
+    _Thunder roars as rain falls onto a hard surface_
+    * **Generated sound1**
+    <audio src="selected/Ytcd9QCdjTI0_mel_sample_0.wav" controls="controls">ERROR</audio>
+    * **Generated sound2**
+    <audio src="selected/Ytcd9QCdjTI0_mel_sample_1.wav" controls="controls">ERROR</audio>
+---
+* **Sample 12**
+    * **Text input:**
+    _An audience gives applause then a man laughs and speaks_
+    * **Generated sound1**
+    <audio src="selected/YtDlfY3nmx1A_mel_sample_4.wav" controls="controls">ERROR</audio>
+    * **Generated sound2**
+    <audio src="selected/YtDlfY3nmx1A_mel_sample_3.wav" controls="controls">ERROR</audio>
+---
+* **Sample 13**
+    * **Text input:**
+    _Birds chirp and animals make noise_
+    * **Generated sound1**
+    <audio src="selected/YtDlysoZiA1I_mel_sample_6.wav" controls="controls">ERROR</audio>
+    * **Generated sound2**
+    <audio src="selected/YtDlfY3nmx1A_mel_sample_4.wav" controls="controls">ERROR</audio>
+---
+* **Sample 14**
+    * **Text input:**
+    _Some people talk followed by some surface being tapped_
+    * **Generated sound1**
+    <audio src="selected/YtFCUUGdREgA_mel_sample_4.wav" controls="controls">ERROR</audio>
+---
+* **Sample 15**
+    * **Text input:**
+    _A man talks while something sizzles_
+    * **Generated sound1**
+    <audio src="selected/YtfsmcdXCnRg_mel_sample_0.wav" controls="controls">ERROR</audio>
+    * **Generated sound2**
+    <audio src="selected/YtfsmcdXCnRg_mel_sample_9.wav" controls="controls">ERROR</audio>
+---
 ### Links
 
 [[Paper]()] [[Bibtex]()] [[Demo GitHub](https://github.com/yangdongchao/text-to-sound-synthesis-demo)]
