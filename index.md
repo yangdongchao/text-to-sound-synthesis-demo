@@ -15,12 +15,12 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 
 | <center>Text description</center> | <center>Generated samples</center> | <center>Original samples</center>|
 | :--- | :--- | :--- |
-|A person is snoring while sleeping|<audio src="snoring/YvJrjSeP17yE_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
-|Mel-spectrograms|<img src="Pic/YsLkeqCDJIyw_g1.png" width="60%" height="60%" />|<img src="Pic/YsLkeqCDJIyw_org.png" width="60%" height="60%" />|
 |Birds and insects make noise during the daytime|<audio src="Birds/YsxIvBMSavMQ_mel_sample_3.wav" controls preload></audio>|<audio src="samples1/YsxIvBMSavMQ.wav" controls preload></audio>|
 |Mel-spectrograms|<img src="Pic/Yvms5XGTDVQc_g1.png" width="60%" height="60%" />|<img src="Pic/Yvms5XGTDVQc_orf.png" width="60%" height="60%" />|
 |A dog barks and whimpers|<audio src="dogbarks/YsShpyu2l4YQ_mel_sample_4.wav" controls preload></audio>|<audio src="samples1/YsShpyu2l4YQ.wav" controls preload></audio>|
-|Mel-spectrograms|<img src="Pic/YsShpyu2l4YQ_g1.png" width="60%" height="60%" />|<img src="Pic/YsShpyu2l4YQ_org.png" width="60%" height="60%" />|
+|Mel-spectrograms|<img src="Pic/dog.png" width="60%" height="60%" />|<img src="Pic/YsShpyu2l4YQ_org.png" width="60%" height="60%" />|
+|A person is snoring while sleeping|<audio src="snoring/YvJrjSeP17yE_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
+|Mel-spectrograms|<img src="Pic/YsLkeqCDJIyw_g1.png" width="60%" height="60%" />|<img src="Pic/YsLkeqCDJIyw_org.png" width="60%" height="60%" />|
 
 ### Other generated samples
 * **Sample 1**
@@ -51,15 +51,19 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ---
 * **Sample 5**
     * **Text input:**
-    _A man speaks, followed by an electronic beep and another man speaking_
-    * **Generated sound**
-    <audio src="samples1/YsG7TyPnFDR0_mel_sample_4.wav" controls="controls">ERROR</audio>
+    _Some knocking and rubbing_
+    * **Generated sound1**
+    <audio src="knock/knocking_mel_sample_2.wav" controls="controls">ERROR</audio>
+    * **Generated sound2**
+    <audio src="knock/knocking_mel_sample_3.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 6**
     * **Text input:**
-    _A baby screams and cries_
-    * **Generated sound**
-    <audio src="selected/YsYQi1wgCNu4_mel_sample_7.wav" controls="controls">ERROR</audio>
+    _Multiple large explosions_
+    * **Generated sound1**
+    <audio src="explosion/explosions_mel_sample_7.wav" controls="controls">ERROR</audio>
+    * **Generated sound2**
+    <audio src="explosion/explosions_mel_sample_6.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 7**
     * **Text input:**
@@ -114,10 +118,8 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 * **Sample 14**
     * **Text input:**
     _A man talks while something sizzles_
-    * **Generated sound1**
+    * **Generated sound**
     <audio src="selected/YtfsmcdXCnRg_mel_sample_0.wav" controls="controls">ERROR</audio>
-    * **Generated sound2**
-    <audio src="selected/YtfsmcdXCnRg_mel_sample_9.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 15**
     * **Text input:**
