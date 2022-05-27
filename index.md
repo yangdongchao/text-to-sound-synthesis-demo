@@ -17,8 +17,6 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 | :--- | :--- | :--- |
 |A person is snoring while sleeping|<audio src="samples1/YsLkeqCDJIyw_mel_sample_1.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
 |Mel-spectrograms|<img src="Pic/YsLkeqCDJIyw_g1.png" width="60%" height="60%" />|<img src="Pic/YsLkeqCDJIyw_org.png" width="60%" height="60%" />|
-|A man speaks as crickets sing|<audio src="samples1/YryFDPxgDOGc_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YryFDPxgDOGc.wav" controls preload></audio>|
-|Mel-spectrograms|<img src="Pic/YryFDPxgDOGc_g0.png" width="60%" height="60%" />|<img src="Pic/YryFDPxgDOGc_org.png" width="60%" height="60%" />|
 |Birds and insects make noise during the daytime|<audio src="samples1/YsxIvBMSavMQ_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YsxIvBMSavMQ.wav" controls preload></audio>|
 |Mel-spectrograms|<img src="Pic/Yvms5XGTDVQc_g1.png" width="60%" height="60%" />|<img src="Pic/Yvms5XGTDVQc_orf.png" width="60%" height="60%" />|
 |A dog barks and whimpers|<audio src="samples1/YsShpyu2l4YQ_mel_sample_9.wav" controls preload></audio>|<audio src="samples1/YsShpyu2l4YQ.wav" controls preload></audio>|
@@ -100,17 +98,13 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 * **Sample 12**
     * **Text input:**
     _An audience gives applause then a man laughs and speaks_
-    * **Generated sound1**
+    * **Generated sound**
     <audio src="selected/YtDlfY3nmx1A_mel_sample_4.wav" controls="controls">ERROR</audio>
-    * **Generated sound2**
-    <audio src="selected/YtDlfY3nmx1A_mel_sample_3.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 13**
     * **Text input:**
     _Birds chirp and animals make noise_
-    * **Generated sound1**
-    <audio src="selected/YtDlysoZiA1I_mel_sample_6.wav" controls="controls">ERROR</audio>
-    * **Generated sound2**
+    * **Generated sound**
     <audio src="selected/YtDlysoZiA1I_mel_sample_4.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 14**
