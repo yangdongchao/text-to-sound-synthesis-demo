@@ -25,7 +25,7 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ### Other generated samples
 * **Sample 1**
     * **Text input:**
-    _someone playing drums_
+    _Someone playing drums_
     * **Generated sound**
     <audio src="drums/playdrums_mel_sample_1.wav" controls="controls">ERROR</audio>
 ---
@@ -59,11 +59,11 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 ---
 * **Sample 6**
     * **Text input:**
-    _Multiple large explosions_
+    _Large explosions sound_
     * **Generated sound1**
-    <audio src="explosion/explosions_mel_sample_7.wav" controls="controls">ERROR</audio>
-    * **Generated sound2**
     <audio src="explosion/explosions_mel_sample_6.wav" controls="controls">ERROR</audio>
+    * **Generated sound2**
+    <audio src="explosion/explosions_mel_sample_7.wav" controls="controls">ERROR</audio>
 ---
 * **Sample 7**
     * **Text input:**
