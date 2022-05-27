@@ -1,0 +1,5 @@
+sample1:高频较少，听起来不累
+sample3：比较有tune
+sample6：最接近gt
+sample7：发音方式最像人吹口哨
+p.s. 虽然我觉得给的gt就不太像人吹出来的口哨声
