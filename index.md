@@ -1,6 +1,6 @@
 # <center> Text-to-sound Synthesis </center>
 
-<center> Dongchao Yang<sup>1</sup>, Jianwei Yu<sup>2</sup>, Wen Wang<sup>1</sup>, Helin Wang<sup>1</sup>, Chao Weng<sup>2</sup>, Yuexian Zou<sup>1</sup> </center> 
+<center> Dongchao Yang<sup>1</sup>, Jianwei Yu<sup>2</sup>, Helin Wang<sup>1</sup>, Wen Wang<sup>1</sup>, Chao Weng<sup>2</sup>, Yuexian Zou<sup>1</sup> </center> 
  
 <center> 1 Peking University </center>
 
