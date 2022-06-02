@@ -13,16 +13,16 @@ This is a [demo](https://github.com/yangdongchao/text-to-sound-synthesis-demo/) 
 
 ### The comprarison between generated and real audios
 
-| <center>Text description</center> | <center>Generated samples</center> | <center>Original samples</center>|
+| <center>Text description</center> | <center>AR models</center> | <center>Diffsound models</center> |<center>Original samples</center>|
 | :--- | :--- | :--- |
-|Birds and insects make noise during the daytime|<audio src="Birds/YsxIvBMSavMQ_mel_sample_3.wav" controls preload></audio>|<audio src="samples1/YsxIvBMSavMQ.wav" controls preload></audio>|
-|Mel-spectrograms|<img src="Pic/Yvms5XGTDVQc_g1.png" width="60%" height="60%" />|<img src="Pic/Yvms5XGTDVQc_orf.png" width="60%" height="60%" />|
-|A dog barks and whimpers|<audio src="dogbarks/YsShpyu2l4YQ_mel_sample_4.wav" controls preload></audio>|<audio src="samples1/YsShpyu2l4YQ.wav" controls preload></audio>|
-|Mel-spectrograms|<img src="Pic/dog.png" width="60%" height="60%" />|<img src="Pic/YsShpyu2l4YQ_org.png" width="60%" height="60%" />|
-|A person is snoring while sleeping|<audio src="snoring/YvJrjSeP17yE_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
-|Mel-spectrograms|<img src="Pic/YsLkeqCDJIyw_g1.png" width="60%" height="60%" />|<img src="Pic/YsLkeqCDJIyw_org.png" width="60%" height="60%" />|
+|Birds and insects make noise during the daytime|<audio src="1/YsxIvBMSavMQ_mel_sample_5.wav" controls preload></audio>|<audio src="Birds/YsxIvBMSavMQ_mel_sample_3.wav" controls preload></audio>|<audio src="samples1/YsxIvBMSavMQ.wav" controls preload></audio>|
+|Mel-spectrograms|<img src="1/AR_bird.png" width="60%" height="60%" />|<img src="Pic/Yvms5XGTDVQc_g1.png" width="60%" height="60%" />|<img src="Pic/Yvms5XGTDVQc_orf.png" width="60%" height="60%" />|
+|A dog barks and whimpers|<audio src="2/YsYj4hpDUZDQ_mel_sample_0.wav" controls preload></audio>|<audio src="dogbarks/YsShpyu2l4YQ_mel_sample_4.wav" controls preload></audio>|<audio src="samples1/YsShpyu2l4YQ.wav" controls preload></audio>|
+|Mel-spectrograms|<img src="2/AR_dog.png" width="60%" height="60%" />|<img src="Pic/dog.png" width="60%" height="60%" />|<img src="Pic/YsShpyu2l4YQ_org.png" width="60%" height="60%" />|
+|A person is snoring while sleeping|<audio src="3/Yt8tv5YRMJUg_mel_sample_8.wav" controls preload></audio>|<audio src="snoring/YvJrjSeP17yE_mel_sample_0.wav" controls preload></audio>|<audio src="samples1/YsLkeqCDJIyw.wav" controls preload></audio>|
+|Mel-spectrograms|<img src="3/AR1.png" width="60%" height="60%" />|<img src="Pic/YsLkeqCDJIyw_g1.png" width="60%" height="60%" />|<img src="Pic/YsLkeqCDJIyw_org.png" width="60%" height="60%" />|
 
-### Other generated samples
+### Other generated samples by Diffsound
 * **Sample 1**
     * **Text input:**
     _Someone playing drums_
